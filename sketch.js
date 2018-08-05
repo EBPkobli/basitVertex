@@ -5,7 +5,7 @@ function setup() {
 
 function draw() {
 
-    background(81);
+    background(100);
     var atlamaSayisi = map(mouseX,0,windowWidth,3,100);
 
     stroke(255);
